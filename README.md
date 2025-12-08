@@ -65,4 +65,4 @@ I love turning ideas into real-life applications and building smart systems.
 
 ![Wasihun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasihunmelkamu&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasihunmelkamu&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasihunmelkamu&theme=radical)
