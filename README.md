@@ -54,15 +54,3 @@ I love turning ideas into real-life applications and building smart systems.
 
 ---
 
-### ⚡ Fun Facts
-- Martial arts & acrobatics enthusiast 🥋🤸‍♂️  
-- Enjoy solving challenging algorithm & logic problems  
-- Love combining **math and real-life scenarios** to understand concepts  
-
----
-
-### 🌟 GitHub Stats
-
-![Wasihun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasihunmelkamu&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasihunmelkamu&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasihunmelkamu&theme=radical)
